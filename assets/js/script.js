@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", async function () {
                                 </p>
                             </div>
                             <div class="play-game">
-                                <a href="https://html-online-game.github.io/${game.id}/" target="_blank">
+                                <a href="https://prodoffical.github.io/${game.id}.github.io/" target="_blank">
                                     Play
                                 </a>
                             </div>`
